@@ -1,7 +1,7 @@
 {
   "name": "state-api",
   "version": "1.0.0",
-  "main": "lib/indes.js",
+  "main": "lib/index.js",
   "author": "Leonardo Vitale",
   "license": "MIT"
 }
